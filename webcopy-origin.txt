@@ -1,0 +1,896 @@
+Uri: https://a.poki.com/assets/client~1366~5daaddfb3880d7bce03f.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~1366~5daaddfb3880d7bce03f.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~1592~4068eb961d96beafd7e9.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~1592~4068eb961d96beafd7e9.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~2177~588313cb82bb7581211a.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~2177~588313cb82bb7581211a.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~2222~c1be84750f0fab1bee0e.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~2222~c1be84750f0fab1bee0e.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~2323~fbbeda126b48c0ce9964.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~2323~fbbeda126b48c0ce9964.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~278~cde5aeef52bb1a175066.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~278~cde5aeef52bb1a175066.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~2902~43ce4e6cc89df0db4dee.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~2902~43ce4e6cc89df0db4dee.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~4593~fc8b49f17215dc11df17.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~4593~fc8b49f17215dc11df17.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~4691~79237cd07f5fda4cf97b.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~4691~79237cd07f5fda4cf97b.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~4890~13d4cca8494c3e2aa4a7.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~4890~13d4cca8494c3e2aa4a7.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~512~72496fb7879e37563ddd.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~512~72496fb7879e37563ddd.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~5322~4799a9271a0651d18f25.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~5322~4799a9271a0651d18f25.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~5441~b93c85938277a7f3796e.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~5441~b93c85938277a7f3796e.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~5673~2f55086f4b0f95bc28ac.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~5673~2f55086f4b0f95bc28ac.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~5840~77e09f59f07b4c2029ca.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~5840~77e09f59f07b4c2029ca.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~5987~f58066b683297e031ea3.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~5987~f58066b683297e031ea3.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~65~5b16f865a5b2307dc40b.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~65~5b16f865a5b2307dc40b.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~6727~67f672e8f261c1916498.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~6727~67f672e8f261c1916498.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~6948~82ef1b12c04b98725db4.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~6948~82ef1b12c04b98725db4.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~7431~542878c0710213214278.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~7431~542878c0710213214278.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~8085~ec8da844ed18b66fbdaf.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~8085~ec8da844ed18b66fbdaf.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~8273~7516db8bf256e8ed5600.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~8273~7516db8bf256e8ed5600.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~8290~07a228456089ab08a40e.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~8290~07a228456089ab08a40e.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~848~392f8a5464030258f710.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~848~392f8a5464030258f710.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~9174~10e818918b4617508f7e.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~9174~10e818918b4617508f7e.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~9563~56650d7a6a89a99e085d.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~9563~56650d7a6a89a99e085d.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~9590~19429538752dac2fff37.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~9590~19429538752dac2fff37.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~9829~55629b7321dd71bf7a44.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~9829~55629b7321dd71bf7a44.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Breadcrumbs-module-css~6d21b9fc818fd73a4f97.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Breadcrumbs-module-css~6d21b9fc818fd73a4f97.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-Breadcrumbs-module-css~f3d433d1bea6487bdeab.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Breadcrumbs-module-css~f3d433d1bea6487bdeab.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Breadcrumbs~16a944048f79ebb84be6.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Breadcrumbs~16a944048f79ebb84be6.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-Advertisement-module-css~242e27bf6fdcffcfceef.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-Advertisement-module-css~242e27bf6fdcffcfceef.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-Advertisement-module-css~5a3b518bb28ca83af3fd.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-Advertisement-module-css~5a3b518bb28ca83af3fd.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-Advertisement~aba035649a8bd9919bf9.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-Advertisement~aba035649a8bd9919bf9.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-GameContainer-module-css~037ff24096143358e37e.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-GameContainer-module-css~037ff24096143358e37e.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-GameContainer-module-css~4236db9759ef21918308.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-GameContainer-module-css~4236db9759ef21918308.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-GameContainer~ecba489c409af7a4e291.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-GameContainer~ecba489c409af7a4e291.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-MultiverseCompanion-module-css~e298ff08859be005dfee.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-MultiverseCompanion-module-css~e298ff08859be005dfee.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-MultiverseCompanion-module-css~e2d4cc627a9c010bf822.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-MultiverseCompanion-module-css~e2d4cc627a9c010bf822.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-MultiverseCompanion~6886afa679ff0bbb273a.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-MultiverseCompanion~6886afa679ff0bbb273a.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-TitleBox-module-css~6b8d1df245f31e9a2800.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-TitleBox-module-css~6b8d1df245f31e9a2800.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-TitleBox-module-css~ceb2dfffb5dd2439e733.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-TitleBox-module-css~ceb2dfffb5dd2439e733.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-contentTypes-TitleBox~718ce80596a1d5cda379.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-contentTypes-TitleBox~718ce80596a1d5cda379.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Description-module-css~bd30e630f635cd19d418.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Description-module-css~bd30e630f635cd19d418.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Description-module-css~f3cbac0967a1f38eee47.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Description-module-css~f3cbac0967a1f38eee47.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-Description~8b70a5be0e0e35028440.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Description~8b70a5be0e0e35028440.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-DetailedTile-module-css~53ffe17ac5c2895c20db.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-DetailedTile-module-css~53ffe17ac5c2895c20db.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-DetailedTile-module-css~85803b0545cab95cc0ac.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-DetailedTile-module-css~85803b0545cab95cc0ac.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-DetailedTile~4201e222177afae2bd11.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-DetailedTile~4201e222177afae2bd11.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Footer-module-css~0fb6b38ca6fd62c4cf76.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Footer-module-css~0fb6b38ca6fd62c4cf76.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-Footer-module-css~ce3ac1eebeb4c259457e.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Footer-module-css~ce3ac1eebeb4c259457e.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Footer~822a55e7de30f91eafc0.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Footer~822a55e7de30f91eafc0.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-GameBar-module-css~6860cfaff9713046faa8.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-GameBar-module-css~6860cfaff9713046faa8.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-GameBar-module-css~6edc859a37a211b4ae9f.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-GameBar-module-css~6edc859a37a211b4ae9f.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-GameBarButton-module-css~56234a2cab7850118d3a.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-GameBarButton-module-css~56234a2cab7850118d3a.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-GameBarButton-module-css~7ecc8d8265c792f30ddd.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-GameBarButton-module-css~7ecc8d8265c792f30ddd.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-GameBarButton~5a8dc3bd66006daf3b53.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-GameBarButton~5a8dc3bd66006daf3b53.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-GameBar~fa3733823e3a1860a655.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-GameBar~fa3733823e3a1860a655.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-GamePlayer-module-css~9388573a69bc1a69a9a9.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-GamePlayer-module-css~9388573a69bc1a69a9a9.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-GamePlayer-module-css~9fc3f77fe5ff5f506089.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-GamePlayer-module-css~9fc3f77fe5ff5f506089.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-GamePlayer~0afff740bfa4168e8624.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-GamePlayer~0afff740bfa4168e8624.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-IFrameGame-module-css~ac1f68b8293b29703950.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-IFrameGame-module-css~ac1f68b8293b29703950.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-IFrameGame-module-css~b1fff8e8899a887b32a1.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-IFrameGame-module-css~b1fff8e8899a887b32a1.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-IFrameGame~7dc03ba0168bb5465894.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-IFrameGame~7dc03ba0168bb5465894.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Link~4a154cfb0f43c4846dce.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Link~4a154cfb0f43c4846dce.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Logo-module-css~1676ae6a9fee0f999074.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Logo-module-css~1676ae6a9fee0f999074.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-Logo-module-css~4422093da2d336eb54b6.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Logo-module-css~4422093da2d336eb54b6.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Logo~94d3c576fef556ed6d04.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Logo~94d3c576fef556ed6d04.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-MultiverseWorld-module-css~274ec8adc4188dedb2a5.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-MultiverseWorld-module-css~274ec8adc4188dedb2a5.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-MultiverseWorld-module-css~6eb3bf51169cd1cc2c07.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-MultiverseWorld-module-css~6eb3bf51169cd1cc2c07.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-MultiverseWorld~e3e0df52137633615a87.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-MultiverseWorld~e3e0df52137633615a87.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Nav-module-css~a8e0150b612096f47c96.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Nav-module-css~a8e0150b612096f47c96.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Nav-module-css~f888977eb90856a98834.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Nav-module-css~f888977eb90856a98834.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-NavButtons-module-css~b23603a03756947bb72f.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-NavButtons-module-css~b23603a03756947bb72f.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-NavButtons-module-css~f588b445ef0ba8e2713d.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-NavButtons-module-css~f588b445ef0ba8e2713d.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-NavButtons~908d8328d45202eb943c.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-NavButtons~908d8328d45202eb943c.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Nav~a48669dcb98e5f7f78af.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Nav~a48669dcb98e5f7f78af.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-PageError~a131279cb47e8a3376c8.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-PageError~a131279cb47e8a3376c8.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-PageGame~0addf8bf598ed2e4d51f.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-PageGame~0addf8bf598ed2e4d51f.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Pill-module-css~351ad67bb10a2556425e.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Pill-module-css~351ad67bb10a2556425e.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-Pill-module-css~d3d7df54319f20463378.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Pill-module-css~d3d7df54319f20463378.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Pill~41052b899c1a2d9d2cfa.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Pill~41052b899c1a2d9d2cfa.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-ReportBugButton~20a5d921b6689ee9ff53.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-ReportBugButton~20a5d921b6689ee9ff53.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-SummaryTile-module-css~165dfa88b4cd063f8f55.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-SummaryTile-module-css~165dfa88b4cd063f8f55.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-SummaryTile-module-css~ecef3f5622a74255c5a2.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-SummaryTile-module-css~ecef3f5622a74255c5a2.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-SummaryTile~74b76e29455baec74bd4.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-SummaryTile~74b76e29455baec74bd4.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-SummaryTile~b8a17e0b3d896b32428e.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-SummaryTile~b8a17e0b3d896b32428e.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-svg-FullscreenButton~dac122f946d9fee7c8b2.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-svg-FullscreenButton~dac122f946d9fee7c8b2.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-svg-SVGIcon~54c70b986d7c54f8208e.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-svg-SVGIcon~54c70b986d7c54f8208e.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Tags-module-css~7529f9b4225a2b3fb3a9.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Tags-module-css~7529f9b4225a2b3fb3a9.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-Tags-module-css~9d0a41c921fdcd925ea1.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Tags-module-css~9d0a41c921fdcd925ea1.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Tags~47d2de9905550748e30d.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Tags~47d2de9905550748e30d.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-TileLabel-module-css~43f2417f0bf6a2242b8a.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-TileLabel-module-css~43f2417f0bf6a2242b8a.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~app-components-TileLabel-module-css~757fdc403cc95e1cec51.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-TileLabel-module-css~757fdc403cc95e1cec51.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-TileLabel~2231f9f6857b0580101d.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-TileLabel~2231f9f6857b0580101d.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~app-components-Voting~936da0e68878fec3727a.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~app-components-Voting~936da0e68878fec3727a.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-051171e8~f1179266a27013109433.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-051171e8~f1179266a27013109433.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-45ee3e46~22b839f8108e11562a6a.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-45ee3e46~22b839f8108e11562a6a.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-51d7ceca~d7fec6707732760e06d9.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-51d7ceca~d7fec6707732760e06d9.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-61b18717~c44685023215bcb6dfd9.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-61b18717~c44685023215bcb6dfd9.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-63cb1cc4~c3b9debc7e6a760909a4.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-63cb1cc4~c3b9debc7e6a760909a4.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-7c52e00d~002866ed673f13a45a64.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-7c52e00d~002866ed673f13a45a64.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-85c77674~ddfca0f4caeb2e16364b.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-85c77674~ddfca0f4caeb2e16364b.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-8665250c~24280d3f0b90aa5f015c.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-8665250c~24280d3f0b90aa5f015c.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-a4fc0d9e~4486a9c41fb14de4a114.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-a4fc0d9e~4486a9c41fb14de4a114.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-a4fc0d9e~859e4898f506cb14146c.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-a4fc0d9e~859e4898f506cb14146c.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~main-b0412244~807c3f3f55c46468d538.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-b0412244~807c3f3f55c46468d538.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-bec01985~a1f69cd73607a913bf2a.css
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-bec01985~a1f69cd73607a913bf2a.css
+Content Type: text/css
+
+Uri: https://a.poki.com/assets/client~main-bec01985~b6d270aa380ac4796ec3.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-bec01985~b6d270aa380ac4796ec3.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-db399e00~0607e8c98364f97f487c.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-db399e00~0607e8c98364f97f487c.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/assets/client~main-ef4b5806~2d5256bc19f968820505.js
+File Name: C:\Downloaded Web Sites\poki.com\assets\client~main-ef4b5806~2d5256bc19f968820505.js
+Content Type: application/javascript
+
+Uri: https://a.poki.com/fonts/noto-sans-arabic.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\noto-sans-arabic.woff2
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-cyrillic.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-cyrillic.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-cyrillic.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-cyrillic.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-greek-coptic.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-greek-coptic.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-greek-coptic.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-greek-coptic.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-latin-ext-a.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-latin-ext-a.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-latin-ext-a.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-latin-ext-a.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-latin-ext-b.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-latin-ext-b.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-latin-ext-b.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-latin-ext-b.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-latin-extended.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-latin-extended.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-latin-extended.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-latin-extended.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-latin.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-latin.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-bold-latin.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-bold-latin.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-cyrillic.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-cyrillic.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-cyrillic.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-cyrillic.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-greek-coptic.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-greek-coptic.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-greek-coptic.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-greek-coptic.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-latin-ext-a.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-latin-ext-a.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-latin-ext-a.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-latin-ext-a.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-latin-ext-b.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-latin-ext-b.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-latin-ext-b.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-latin-ext-b.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-latin-extended.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-latin-extended.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-latin-extended.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-latin-extended.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-latin.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-latin.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/proxima-nova-regular-latin.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\proxima-nova-regular-latin.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/torus-bold-latin-ext-a.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\torus-bold-latin-ext-a.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/torus-bold-latin-ext-a.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\torus-bold-latin-ext-a.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/torus-bold-latin-ext-b.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\torus-bold-latin-ext-b.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/torus-bold-latin-ext-b.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\torus-bold-latin-ext-b.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/torus-bold-latin-extended.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\torus-bold-latin-extended.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/torus-bold-latin-extended.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\torus-bold-latin-extended.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/fonts/torus-bold-latin.woff
+File Name: C:\Downloaded Web Sites\poki.com\fonts\torus-bold-latin.woff
+Content Type: application/font-woff
+
+Uri: https://a.poki.com/fonts/torus-bold-latin.woff2
+File Name: C:\Downloaded Web Sites\poki.com\fonts\torus-bold-latin.woff2
+Content Type: binary/octet-stream
+
+Uri: https://a.poki.com/icons/android-chrome-192x192.png
+File Name: C:\Downloaded Web Sites\poki.com\icons\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://a.poki.com/icons/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\poki.com\icons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://a.poki.com/icons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\poki.com\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://a.poki.com/icons/favicon-194x194.png
+File Name: C:\Downloaded Web Sites\poki.com\icons\favicon-194x194.png
+Content Type: image/png
+
+Uri: https://a.poki.com/icons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\poki.com\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://a.poki.com/icons/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\poki.com\icons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://a.poki.com/images/bg-diamante.svg
+File Name: C:\Downloaded Web Sites\poki.com\images\bg-diamante.svg
+Content Type: image/svg+xml
+
+Uri: https://a.poki.com/img/favicon.ico
+File Name: C:\Downloaded Web Sites\poki.com\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=40,height=40,fit=cover,f=auto/5cefef3405f22401304a9a8f1c3b289c.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=40,height=40,fit=cover,f=auto\5cefef3405f22401304a9a8f1c3b289c.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/03bc5f18f68a735ffa206ba2b8e7be23.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\03bc5f18f68a735ffa206ba2b8e7be23.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/19a3ea265e3b62b11facec762dd1c4f2.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\19a3ea265e3b62b11facec762dd1c4f2.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/19b9e0776e9934317ff17411c614c101.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\19b9e0776e9934317ff17411c614c101.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/2094926076b7aa8264cace220ce5decc.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\2094926076b7aa8264cace220ce5decc.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/260f3251a55c78a27fd15b9e4d675f88.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\260f3251a55c78a27fd15b9e4d675f88.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/2c6d5a46cdbceada277c870ce1c389ee.jpg
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\2c6d5a46cdbceada277c870ce1c389ee.jpg
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/2d5e417ea0fc1ef06d746b2cef691c07.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\2d5e417ea0fc1ef06d746b2cef691c07.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/3a8fb4353fcb063927888e6eb225c70c.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\3a8fb4353fcb063927888e6eb225c70c.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/47a36237-54bb-4608-8373-bc862a8492f4.jpg
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\47a36237-54bb-4608-8373-bc862a8492f4.jpg
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/49d01cdc4d61a117dfb4b94b921f77d0.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\49d01cdc4d61a117dfb4b94b921f77d0.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/505695b9-1b21-47fd-a8e1-93345afb57de.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\505695b9-1b21-47fd-a8e1-93345afb57de.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/530ca3c074f1db579ec671500581d1fc.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\530ca3c074f1db579ec671500581d1fc.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/5a167817ec71a23d76dfa50dc95d7916.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\5a167817ec71a23d76dfa50dc95d7916.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/5d73577d0d9922b57ce6baae02dfe882.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\5d73577d0d9922b57ce6baae02dfe882.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/70e565ff687043e10e150e23d0ae5ea2.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\70e565ff687043e10e150e23d0ae5ea2.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/7482e96dbd68d7c1a4bbad5e79a84cf4.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\7482e96dbd68d7c1a4bbad5e79a84cf4.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/7939e6f122314894c19a77ac73860f06.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\7939e6f122314894c19a77ac73860f06.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/7da04eebe06d435251415e771868d71d.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\7da04eebe06d435251415e771868d71d.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/847d61b3dd60e988a08848f4d0f6a26e.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\847d61b3dd60e988a08848f4d0f6a26e.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/849589e027a01d7bd61d03cf45b1824a.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\849589e027a01d7bd61d03cf45b1824a.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/84ed40b8ade4e9f5bbf1fa7b3acef3a3.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\84ed40b8ade4e9f5bbf1fa7b3acef3a3.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/859a801e479835e6a25311d96c225a80.jfif
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\859a801e479835e6a25311d96c225a80.jfif
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/89025597b6c25bc9a444459fa0b3eb9a.jpg
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\89025597b6c25bc9a444459fa0b3eb9a.jpg
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/92ee01bd30e4ad4fa7b991637374ef48.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\92ee01bd30e4ad4fa7b991637374ef48.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/98df7c61542c2bb2c3566a755a459aa8.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\98df7c61542c2bb2c3566a755a459aa8.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/9942d88858390c286e899225170510f2.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\9942d88858390c286e899225170510f2.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/99e090d154caf30f3625df7e456d5984.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\99e090d154caf30f3625df7e456d5984.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/9aa6000ed201eba3c8f878c489a7c3ce.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\9aa6000ed201eba3c8f878c489a7c3ce.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/9b739087f9938fb143a2519252addbb8.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\9b739087f9938fb143a2519252addbb8.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/9f11541bbe254eef3090a3e29e05edd1.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\9f11541bbe254eef3090a3e29e05edd1.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/9f5e1de6bcc9a29ea4b4e56f408a05dc.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\9f5e1de6bcc9a29ea4b4e56f408a05dc.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/a0d86b7b137adb01f887936c1fba4e9d.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\a0d86b7b137adb01f887936c1fba4e9d.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/a2b99572ebfe18b49fdb3748f95544c7.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\a2b99572ebfe18b49fdb3748f95544c7.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/a3a246c690c18be13906e62be22362a8.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\a3a246c690c18be13906e62be22362a8.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/a59703c960494998f380844a00468c67.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\a59703c960494998f380844a00468c67.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/a646194cdc4febb0eac0a496fae531a1.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\a646194cdc4febb0eac0a496fae531a1.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/a7b68603f8044283217e69ec5e31b9fe.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\a7b68603f8044283217e69ec5e31b9fe.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/a9fb14a849dbb884862c7704e9f01b67.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\a9fb14a849dbb884862c7704e9f01b67.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/aa00e8a59b4b3ee4524003783edde4a8.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\aa00e8a59b4b3ee4524003783edde4a8.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/ada621ee3a066ab12be8484017fd6297.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\ada621ee3a066ab12be8484017fd6297.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/aeaf3faeebdd6863bc0539d2c641839c.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\aeaf3faeebdd6863bc0539d2c641839c.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/af022750b5596cd17cdc0fced736c141.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\af022750b5596cd17cdc0fced736c141.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/b2d0a2556efd0e3d253778a1424b8716.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\b2d0a2556efd0e3d253778a1424b8716.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/b95d4ef6c4911ad136b050effe3c5f16.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\b95d4ef6c4911ad136b050effe3c5f16.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/b9bdc9a88501dbcc3c477281ed9fdbbe.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\b9bdc9a88501dbcc3c477281ed9fdbbe.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/c0685a94fced8e38cb03a820a5e35474.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\c0685a94fced8e38cb03a820a5e35474.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/c7d21e8c3962488f12ef86e2521b6697.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\c7d21e8c3962488f12ef86e2521b6697.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/c8cb366d52fc2a67fb313c344efdbc9e.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\c8cb366d52fc2a67fb313c344efdbc9e.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/cbeba74384bccce06ab61ad4aa08f9d3.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\cbeba74384bccce06ab61ad4aa08f9d3.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/cedefd1d0e8e38762124bf516ffd1b60.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\cedefd1d0e8e38762124bf516ffd1b60.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/cf4817609650111002246cb338151d0f.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\cf4817609650111002246cb338151d0f.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/d89159e07e5eb9c4a66edf4854b7a678.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\d89159e07e5eb9c4a66edf4854b7a678.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/dca8f210136ad70d800b95624586b4d1.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\dca8f210136ad70d800b95624586b4d1.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/dccce63f30c0d6f97ebadfe8f7eac04e.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\dccce63f30c0d6f97ebadfe8f7eac04e.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/dd62d70d045acd6e8755f5db8c13f057.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\dd62d70d045acd6e8755f5db8c13f057.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/e07f42e340447222129467619dc0e7e4.jpeg
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\e07f42e340447222129467619dc0e7e4.jpeg
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/e17ae79cf1087263925b205e1ca1429a.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\e17ae79cf1087263925b205e1ca1429a.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/e327f46027899af3e9573ef51450bb54.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\e327f46027899af3e9573ef51450bb54.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/e3d3917911b206844b48c3f87eeb12a2.jfif
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\e3d3917911b206844b48c3f87eeb12a2.jfif
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/e689238d6dcbb672b749ab65960c0d65.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\e689238d6dcbb672b749ab65960c0d65.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/eb87ef83d9d965af7542bc47f54b38bb.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\eb87ef83d9d965af7542bc47f54b38bb.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/eec0c9f3062cffdc96af76dec5f9ee57.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\eec0c9f3062cffdc96af76dec5f9ee57.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/ef026214-7374-450a-98dd-a60f74de4617.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\ef026214-7374-450a-98dd-a60f74de4617.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/f39e22538799cae88cf1a630492c2e7b.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\f39e22538799cae88cf1a630492c2e7b.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/f4206f3b44bc80b9763bc190dcf9eecc.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\f4206f3b44bc80b9763bc190dcf9eecc.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/f4b3ac7fe25cad9bc028b33f7a407f28.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\f4b3ac7fe25cad9bc028b33f7a407f28.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/f8a2160e52333ee0d44ec19e8ca65139.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\f8a2160e52333ee0d44ec19e8ca65139.png
+Content Type: image/jpeg
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/fdc7db3a50153d094e4a32cb09167e8b.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\fdc7db3a50153d094e4a32cb09167e8b.png
+Content Type: image/png
+
+Uri: https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/ff10d1018d34f17be4ecfe187d25fa4f.png
+File Name: C:\Downloaded Web Sites\poki.com\cdn-cgi\image\quality=78,width=94,height=94,fit=cover,f=auto\ff10d1018d34f17be4ecfe187d25fa4f.png
+Content Type: image/png
+
+Uri: https://poki.com/en/g/monkey-mart
+File Name: C:\Downloaded Web Sites\poki.com\en\g\monkey-mart.html
+Content Type: text/html
+
+Uri: https://poki.com/manifest.json
+File Name: C:\Downloaded Web Sites\poki.com\manifest.json
+Content Type: application/json
+
