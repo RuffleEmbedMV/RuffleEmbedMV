@@ -1,1 +1,0 @@
-"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[8295],{9349:(_,D,L)=>{L.r(D),L.d(D,{multiverseWorld:()=>r});var r="Ua4RD7m6rLVbM4dTKBIa"}}]);

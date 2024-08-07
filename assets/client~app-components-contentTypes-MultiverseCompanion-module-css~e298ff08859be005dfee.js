@@ -1,1 +1,0 @@
-"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[3419],{4854:(_,e,i)=>{i.r(e),i.d(e,{multiverseCompanion__container:()=>n,multiverseCompanion__multiverseWorld:()=>o,multiverseCompanion__outer:()=>r,multiverseCompanion__title:()=>t});var n="Xb6__f5_H8vnfQXhQXTD",o="em1WOdy9hoMqfFmoOvur",r="ZF7ftZMTliVGC38FnFFx",t="Kyxb3qDEVpzKZqYVLknE"}}]);
